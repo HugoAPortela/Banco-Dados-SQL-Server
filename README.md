@@ -204,13 +204,3 @@ Se executarmos a aplicação agora veremos que o banco de dados será criado no 
 http://www.deviamedia.com.br/
 
 http://www.entityframeworktutorial.net/
-
-
-### Feito por:
-[Dario Gabriel](https://github.com/dariogabriel113)
-
-[Hamilton Neto](https://github.com/hamiltonmneto)
-
-
-### Visite: 
-http://mbacefor.blogspot.com.br/
